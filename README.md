@@ -13,7 +13,9 @@
 
 ## Problem Statement
 
-**Objective:** Identify a minimal set of Wikipedia article topics (tags) that best explain stylistic variation across high-quality French Wikipedia articles.
+**Objective:** his project is part of my thesis. During this thesis, I wanted to differenciate the style of the articles in Wikipedia by their categories, the problem is that there is no clear categories. The closest we have is some tags that are added by machine learning, such as 'geographical', 'history', but also 'Asia' or 'science & technologies'. 
+
+Our objectif : Identifying a minimal set of topics that explained the best the stylistic variation in the articles.
 
 **Motivation:** Wikipedia lacks clear, consistent categories. By leveraging machine-generated tags, we aim to uncover which topics most strongly predict stylistic differences, supporting better content organization and discovery.
 
