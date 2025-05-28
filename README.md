@@ -63,6 +63,6 @@
 
 ## References
 
-- [ORES documentation](link)
-- [SpaCy](link)
+- [ORES documentation](https://www.mediawiki.org/wiki/ORES/Articletopic#Taxonomy)
+- [SpaCy](https://github.com/explosion/spacy-models/releases/tag/fr_core_news_lg-3.8.0)
 - [Neural Gas Algorithm](link)
