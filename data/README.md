@@ -1,0 +1,3 @@
+- df_topic.gzip.parquet : contains the topics to which an article belong
+- dict_adq.joblib : contains a dictionnary stating the date to which the article became a featured article
+- dict_ba.joblib : contains a dictionnary stating the date to which the article became a good article
