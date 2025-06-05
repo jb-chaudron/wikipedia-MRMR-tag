@@ -58,7 +58,7 @@ Our objectif : Identifying a minimal set of topics that explained the best the s
 ## Reproducibility
 
 - All code in `notebooks/01_tag_analysis.ipynb`
-- Data scripts in `src/`
+- Data set available on [Kaggle](https://www.kaggle.com/datasets/jeanbaptistechaudron/stylistically-encoded-wikipedia-articles)
 - Requirements: see `requirements.txt`
 
 ---
